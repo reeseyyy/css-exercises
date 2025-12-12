@@ -8,7 +8,7 @@ body {
   background: #fff;
   margin: 16px auto;
   padding: 20px;
-  width: 500px;
+  width: 550px;
 }
 
 .title {
@@ -20,7 +20,6 @@ body {
 .content {
   background: #e3f4ff;
   font-size: 22px;
-  text-align: center;
   margin: 16px auto;
   padding: 10px;
 }
