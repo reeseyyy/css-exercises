@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.CM {
+    font-family: Helvetica, 'Times New Roman', serif;
+    font-size: 28px;
+}
+
+.CM#C1 {
+    background-color: black;
+    color: white;
+}
+
+.CM#C2 {
+    background-color: yellow;
+}
+
